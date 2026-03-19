@@ -63,13 +63,7 @@ ENCODER consistently outperforms existing baselines on four widely-used datasets
   <img src="assets/fashion-results.png" alt="FashionIQ and Shoes Results" width="900">
 </p>
 
-### 2. Fashion200K Dataset
-*(Evaluated using Recall@K)* 
-<p align="center">
-  <img src="assets/fashion200k-results.png" alt="CIRR Results" width="500">
-</p>
-
-### 3. CIRR Dataset
+### 2. CIRR Dataset
 *(Evaluated using R@K and R_subset@K)* 
 <p align="center">
   <img src="assets/cirr-results.png" alt="CIRR Results" width="900">
@@ -87,8 +81,7 @@ ENCODER consistently outperforms existing baselines on four widely-used datasets
 - [🏗️ Architecture](#️-architecture)
 - [📊 Experiment Results](#-experiment-results)
   - [1. FashionIQ & Shoes Datasets](#1-fashioniq--shoes-datasets)
-  - [2. Fashion200K Dataset](#2-fashion200k-dataset)
-  - [3. CIRR Dataset](#3-cirr-dataset)
+  - [2. CIRR Dataset](#3-cirr-dataset)
 - [🚀 Installation](#-installation)
 - [📂 Data Preparation](#-data-preparation)
   - [Shoes](#shoes)
@@ -292,7 +285,16 @@ The implementation of this project references the [CLIP4Cir](https://github.com/
 
 ## ✉️ Contact
 If you have any questions, feel free to [open an issue](https://github.com/Lee-zixu/ENCODER/issues) or contact us at:
-* Zixu Li: lzx@mail.sdu.edu.cn 
+* Zixu Li: lzx@mail.sdu.edu.cn
+* 
+## 🫡 Support & Contributing
+
+We welcome all forms of contributions! If you have any questions, ideas, or find a bug, please feel free to:
+- Open an [Issue](https://github.com/Lee-zixu/ENCODER/issues) for discussions or bug reports.
+- Submit a [Pull Request](https://github.com/Lee-zixu/ENCODER/pulls) to improve the codebase.
+
+[⬆ Back to top](#top)
+
 
 ---
 
